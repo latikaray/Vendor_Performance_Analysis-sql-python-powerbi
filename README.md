@@ -304,6 +304,19 @@ to explore the interactive dashboard.
 
 ---
 
+## 📌 Dataset Availability
+
+The datasets used in this project are **not included** in this repository due to sharing restrictions.
+
+If you'd like to reproduce the analysis, explore the Power BI dashboard, or use this project for learning purposes, feel free to **reach out to me**. I'll be happy to share the dataset (where applicable) and guide you through the project setup.
+
+📧 **Email:** latikar109@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/latika-ray
+
+> **Note:** The repository includes the complete analysis pipeline, notebooks, scripts, and dashboard. Only the raw data files are excluded.
+
+---
+
 # 📚 Skills Demonstrated
 
 - SQL ETL
