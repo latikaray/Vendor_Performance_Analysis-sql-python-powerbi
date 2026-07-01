@@ -93,36 +93,30 @@ By completing this analysis, the project aims to:
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 vendor-performance-analysis/
 │
-├── README.md
-├── .gitignore
-├── requirements.txt
-├── Vendor Performance Report.pdf
+├── 📁 dashboard/
+│   └── vendor_performance.pbix
 │
-├── notebooks/
-│   ├── exploratory_data_analysis.ipynb
-│   └── vendor_performance_analysis.ipynb
+├── 📁 images/
+│   ├── Dashboard.png
+│   └── pipeline.png
 │
-├── scripts/
+├── 📁 notebooks/
+│   ├── Exploratory Data Analysis.ipynb
+│   └── Vendor Performance Analysis.ipynb
+│
+├── 📁 scripts/
 │   ├── ingestion_db.py
 │   └── get_vendor_summary.py
 │
-├── dashboard/
-│   └── vendor_performance_dashboard.pbix
-│
-├── data/
-│   ├── sales.csv
-│   ├── vendors.csv
-│   └── inventory.csv
-│
-└── images/
-    └── dashboard.png
+├── 📄 LICENSE
+├── 📄 README.md
+└── 📄 Vendor Performance Report.pdf
 ```
-
 ---
 
 # 📊 Dataset Information
@@ -242,7 +236,7 @@ Statistical analysis confirmed a **significant difference in vendor profit margi
 
 # 📊 Dashboard
 
-![Vendor Dashboard](images/dashboard.png)
+![Vendor Dashboard](images/Dashboard.png)
 
 The interactive Power BI dashboard provides insights into:
 
